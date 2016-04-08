@@ -1,0 +1,2 @@
+F:\projects\VL.Frameworks\VL.Frameworks\VL.Console\bin\Debug\VL.Console.exe.config
+F:\projects\VL.Frameworks\VL.Console\bin\Debug\VL.Console.exe.config
