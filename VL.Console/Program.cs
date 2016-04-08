@@ -10,6 +10,7 @@ namespace VL.Console
     {
         static void Main(string[] args)
         {
+            string s = "";
         }
     }
 }
