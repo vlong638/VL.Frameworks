@@ -1,2 +1,7 @@
 F:\projects\VL.Frameworks\VL.Frameworks\VL.Console\bin\Debug\VL.Console.exe.config
 F:\projects\VL.Frameworks\VL.Console\bin\Debug\VL.Console.exe.config
+F:\projects\VL.Frameworks\VL.Console\bin\Debug\VL.Console.exe
+F:\projects\VL.Frameworks\VL.Console\bin\Debug\VL.Console.pdb
+F:\projects\VL.Frameworks\VL.Console\obj\Debug\VL.Console.csprojResolveAssemblyReference.cache
+F:\projects\VL.Frameworks\VL.Console\obj\Debug\VL.Console.exe
+F:\projects\VL.Frameworks\VL.Console\obj\Debug\VL.Console.pdb
