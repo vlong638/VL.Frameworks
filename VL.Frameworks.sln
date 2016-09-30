@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VL.MVC", "VL.MVC\VL.MVC.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VL.MVC.Tests", "VL.MVC.Tests\VL.MVC.Tests.csproj", "{685EAFE1-D607-40D2-A804-97722AA4B4BE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{30D0EC8B-EF30-49FA-A547-E235EE7F3583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VL.WebAPI", "VL.WebAPI\VL.WebAPI.csproj", "{8AE3B27A-6528-4DA2-8DDF-055A61BEBB74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +31,15 @@ Global
 		{685EAFE1-D607-40D2-A804-97722AA4B4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{685EAFE1-D607-40D2-A804-97722AA4B4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{685EAFE1-D607-40D2-A804-97722AA4B4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE3B27A-6528-4DA2-8DDF-055A61BEBB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE3B27A-6528-4DA2-8DDF-055A61BEBB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE3B27A-6528-4DA2-8DDF-055A61BEBB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE3B27A-6528-4DA2-8DDF-055A61BEBB74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{685EAFE1-D607-40D2-A804-97722AA4B4BE} = {30D0EC8B-EF30-49FA-A547-E235EE7F3583}
 	EndGlobalSection
 EndGlobal
