@@ -51,13 +51,15 @@ namespace VL.MVC
             };
 
             // 配置密码的验证逻辑
+            // VL.MVC默认的密码校验规则
+            // 这里对DataType.Password的类型进行了规则配置
             manager.PasswordValidator = new PasswordValidator
             {
-                RequiredLength = 6,
-                RequireNonLetterOrDigit = true,
-                RequireDigit = true,
-                RequireLowercase = true,
-                RequireUppercase = true,
+                //RequiredLength = 6,
+                //RequireNonLetterOrDigit = true,
+                //RequireDigit = true,
+                //RequireLowercase = true,
+                //RequireUppercase = true,
             };
 
             // 配置用户锁定默认值
